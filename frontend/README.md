@@ -41,62 +41,62 @@ Backend:
 
 ## Скриншоты
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/1.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/1.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/2.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/2.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/3.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/3.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/4.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/4.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/5.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/5.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/6.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/6.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/7.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/7.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/8.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/8.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/9.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/9.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/10.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/10.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/11.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/11.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/12.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/12.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/13.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/13.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/14.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/14.png)
 
 ---
 
-![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/tree/main/frontend/public/img/screenshots/15.png)
+![Screenshot](https://github.com/Adamadziev4/furniture-ecommerce/blob/main/frontend/public/img/screenshots/15.png)
 
 ---
