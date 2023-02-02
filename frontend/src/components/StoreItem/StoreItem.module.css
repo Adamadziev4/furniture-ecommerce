@@ -1,0 +1,81 @@
+.storeItem {
+  background-color: white;
+  box-shadow: 0px 0px 10px 1px rgba(0, 0, 0, 0.1);
+  overflow: hidden;
+}
+
+.storeItem img {
+  width: 100%;
+  height: 235px;
+  transition: transform 0.4s ease-in-out;
+}
+
+.storeItem img:hover {
+  transform: scale(1.04);
+}
+
+.storeItemContainer {
+  display: grid;
+  grid-template-rows: 2.6fr 1fr;
+}
+
+.nameAndPrice {
+  display: grid;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10px;
+  margin-top: 10px;
+}
+
+.storeItemPrice {
+  margin-bottom: 10px;
+}
+
+.addBtn {
+  display: grid;
+}
+
+.addBtn button {
+  color: white;
+  background-color: var(--main-color);
+  margin: 5px 10px 15px 10px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.minusBtn,
+.plusBtn {
+  padding: 5px 12px;
+  color: white;
+  background-color: var(--main-color);
+  margin: 5px 13px 15px 13px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.minusBtn.disabled {
+  background-color: var(--btn-disabled-color) !important;
+}
+
+.deleteBtn {
+  background-color: red;
+  color: white;
+  padding: 5px 20px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.minusBtn:hover,
+.plusBtn:hover {
+  background-color: var(--btn-hover-color);
+}
+
+.deleteBtn:hover {
+  background-color: rgb(255, 66, 66);
+}
+
+.minusBtn:active,
+.plusBtn:active,
+.deleteBtn:active {
+  transform: translateY(-1px);
+}

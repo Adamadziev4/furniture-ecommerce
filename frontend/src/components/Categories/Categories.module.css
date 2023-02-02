@@ -1,0 +1,83 @@
+.categorysSection {
+  padding: 0 20px;
+  background-color: white;
+}
+
+.categoryTitle {
+  margin-bottom: 23px;
+}
+
+.categoryList {
+  padding: 0;
+}
+
+.categoryList li {
+  color: rgb(80, 80, 80);
+  margin-top: 14px;
+  cursor: pointer;
+}
+
+.categoryList li.active span {
+  padding: 1px 4px 0 4px;
+  color: white;
+  border-radius: 5px;
+  background-color: var(--main-color);
+}
+
+.priceFilter {
+  margin-top: 23px;
+}
+
+.priceFilter p {
+  padding-top: 7px;
+}
+
+.priceFilter input {
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.colorFilter {
+  margin-top: 17px;
+}
+
+.colorList {
+  display: flex;
+  align-items: center;
+  padding: 0;
+  gap: 17px;
+  margin-top: 5px;
+}
+
+.color {
+  width: 16px;
+  height: 16px;
+  border-radius: 50%;
+  cursor: pointer;
+  border: 1px solid rgba(0, 0, 0, 0.7);
+}
+
+.colorList li.active {
+  padding: 10px;
+}
+
+.colorList .clearColor {
+  font-size: 14px;
+  color: rgb(222, 0, 0);
+  border-radius: 15px;
+  cursor: pointer;
+}
+
+.clearFilter {
+  background-color: rgb(230, 0, 0);
+  border-radius: 5px;
+  margin-top: 25px;
+  padding: 5px;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.clearFilter:active {
+  transform: translateY(-1px);
+}

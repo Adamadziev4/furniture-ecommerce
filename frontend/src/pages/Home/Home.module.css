@@ -1,0 +1,33 @@
+main {
+  display: grid;
+  justify-content: center;
+  padding: 70px 0;
+}
+
+.container {
+  width: var(--mw);
+}
+
+.cosiness {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: center;
+}
+
+.cosinessDesc .cosinessTitle {
+  text-align: center;
+  /* display: grid; */
+  /* justify-content: center; */
+}
+
+.cosinessDesc ul {
+  /* padding: 0; */
+  list-style-type: disc;
+  font-size: 18px;
+  /* height: 91%; */
+  display: grid;
+}
+
+.cosinessDesc ul li {
+  margin-top: 35px;
+}

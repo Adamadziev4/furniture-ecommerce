@@ -1,0 +1,41 @@
+.orderBlock {
+  display: grid;
+}
+
+.orderItemList {
+  padding: 0;
+  margin: 0 auto;
+}
+
+.orderData {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.orderData span {
+  background-color: var(--main-color);
+  border-radius: 5px;
+  padding: 3px 10px;
+  color: white;
+}
+
+.orderItem {
+  border-bottom: 1px solid black;
+}
+
+.orderItem:nth-last-child(2) {
+  border-bottom: none !important;
+}
+
+.totalPay {
+  text-align: right;
+}
+
+.totalPay span {
+  /* background-color: var(--main-color); */
+  background-color: green;
+
+  border-radius: 5px;
+  padding: 3px 10px;
+  color: white;
+}

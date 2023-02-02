@@ -1,0 +1,68 @@
+.storePage {
+  display: grid;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 150px;
+}
+
+.storeTitle {
+  justify-self: center;
+  margin-bottom: 30px;
+}
+
+.container {
+  width: var(--mw);
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+
+.itemsSection {
+  padding: 0 0px 0 20px;
+}
+
+.itemsSectionHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.searchContainer {
+  position: relative;
+}
+
+.searchContainer span {
+  position: absolute;
+  top: 3.5px;
+  right: 7px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.search {
+  border: 0.1px solid var(--main-color) !important;
+  /* z-index: 0; */
+  text-decoration: none;
+  font-size: 15px;
+  border-radius: 5px;
+  outline: none;
+}
+
+.search::before {
+  content: "gfg";
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.gridItems {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  grid-gap: 20px;
+  padding: 23px 0 0 0;
+}
+
+.emptyStoreItems {
+  display: grid;
+  justify-content: center;
+  padding-top: 100px;
+}

@@ -1,0 +1,80 @@
+.cartItemsList {
+  padding: 0;
+}
+
+.cartItem {
+  position: relative;
+  display: grid;
+  grid-template-columns: 3fr 1fr;
+  justify-content: space-between;
+  align-items: center;
+  padding: 10px 15px;
+  margin: 15px 10px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.2);
+  overflow: hidden;
+}
+.cartItem img {
+  transition: all 0.25s ease-in;
+}
+
+.cartItem img:hover {
+  transform: scale(1.05);
+}
+
+.cartItem::after {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  width: 93%;
+  height: 1px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
+
+.leftSide {
+  display: flex;
+  align-items: center;
+  overflow: hidden;
+}
+
+.nameCount {
+  width: 75%;
+  padding: 0 20px 0 30px;
+}
+
+.rightSide {
+  display: grid;
+  grid-auto-flow: column;
+  justify-content: space-between;
+}
+
+.countBtnGroup {
+  width: 35%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+button.disabled {
+  background-color: var(--btn-disabled-color) !important;
+}
+
+.countBtnGroup button:hover {
+  background-color: var(--btn-hover-color);
+}
+
+.countBtnGroup button:active {
+  transform: translateY(-1px);
+}
+
+.countBtnGroup button {
+  background-color: var(--main-color);
+  color: white;
+  height: 70%;
+  border-radius: 5px;
+  padding: 0 5px;
+}
+
+.deleteItemBtn {
+  background-color: inherit;
+  cursor: pointer;
+}

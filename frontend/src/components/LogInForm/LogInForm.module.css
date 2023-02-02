@@ -1,0 +1,68 @@
+.logInForm {
+  padding: 25px 30px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.registration {
+  display: grid;
+  grid-gap: 35px;
+  margin-bottom: 10px;
+}
+
+.username,
+.password {
+  position: relative;
+}
+
+.userSvg,
+.passwordSvg {
+  position: absolute;
+  top: 4.5px;
+  left: 4px;
+}
+
+.registration input {
+  /* border: 1px solid black; */
+  /* border-radius: 12px; */
+  padding-left: 35px;
+}
+
+.registration input.error {
+  border-bottom: 1px solid red;
+}
+
+.regError {
+  text-align: center;
+  color: rgb(255, 66, 66);
+  /* padding: 15px 0; */
+}
+
+.signIn {
+  margin: 20px 0 25px 0;
+  text-align: center;
+}
+
+.signInText {
+  color: var(--main-color);
+  cursor: pointer;
+}
+
+.loginBtn {
+  border-radius: 12px;
+  font-size: 16px;
+  padding: 10px 0;
+  color: white;
+  background-color: var(--main-color);
+}
+
+.loginBtn:hover {
+  background-color: var(--btn-hover-color);
+}
+
+.loginBtn:active {
+  transform: translateY(-2px);
+}

@@ -1,0 +1,57 @@
+.logInForm {
+  padding: 25px 30px;
+}
+
+.title {
+  text-align: center;
+  margin-bottom: 30px;
+}
+
+.registration {
+  display: grid;
+  grid-gap: 25px;
+}
+
+.error {
+  border-bottom: 1px solid red;
+}
+
+.username,
+.password {
+  position: relative;
+}
+
+.userSvg,
+.passwordSvg {
+  position: absolute;
+  top: 4.5px;
+  left: 4px;
+}
+
+.registration input {
+  padding-left: 35px;
+}
+
+.logIn {
+  margin: -10px 0;
+  text-align: center;
+}
+
+.signInError {
+  color: rgb(255, 47, 47);
+  margin: 0 0 10px 0;
+}
+
+.logInText {
+  color: var(--main-color);
+  cursor: pointer;
+}
+
+.signInBtn {
+  border-radius: 12px;
+  font-size: 16px;
+  padding: 10px 0;
+  margin: 10px 50px 0 50px;
+  color: white;
+  background-color: var(--main-color);
+}

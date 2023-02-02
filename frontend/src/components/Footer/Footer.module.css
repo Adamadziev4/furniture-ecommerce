@@ -1,0 +1,31 @@
+.footer {
+  display: grid;
+  justify-content: center;
+  padding: 50px 0 40px 0;
+  background-color: rgb(64, 38, 38);
+  color: rgb(197, 197, 197);
+}
+
+.container {
+  width: var(--mw);
+  display: grid;
+  grid-gap: 50px;
+  grid-template-columns: 5fr 1fr 1fr;
+}
+
+.contacts {
+  display: grid;
+  grid-gap: 10px;
+  width: 80%;
+}
+
+.informationList,
+.serviceList {
+  padding: 0;
+}
+
+.informationList li,
+.serviceList li {
+  margin-top: 10px;
+  cursor: pointer;
+}
